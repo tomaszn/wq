@@ -26,9 +26,9 @@ setup(
     long_description=readme(),
     long_description_content_type='text/markdown',
     install_requires=[
-        'wq.app>=1.2.0,<1.3.0',
+        'wq.app>=1.1.0,<1.3.0',
         'wq.core>=1.1.0,<1.3.0',
-        'wq.db>=1.1.3,<1.3.0',
+        'wq.db>=1.1.3,<1.4.0',
         'wq.start>=1.1.0,<1.3.0',
     ],
     python_requires='>=3',
